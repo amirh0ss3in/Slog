@@ -7,7 +7,7 @@ def symp(data,x_scale,y_scale):
     plt.show()
 
 def main():
-    # symp(data,'symlog''symlog')
+    # symp(data,'symlog','symlog')
     pass
 
 if __name__ == '__main__':
